@@ -106,7 +106,7 @@ $('.js-tours-filter-btns').on('click', '.tours-filter__btn', function() {
     });
 
 // Tabs
-/*
+
 function tabs(hide, hideFirst, btnFirst, btn, clsActive, contentBlock){
     $(hide).hide();
     $(hideFirst).show();
@@ -125,7 +125,7 @@ function tabs(hide, hideFirst, btnFirst, btn, clsActive, contentBlock){
 }
 
 tabs('.tabs__content', '.tabs__content:first', '.tabs__btn:first', '.tabs__btn', 'tabs__btn--active', '.tabs__content')
-*/
+/*
 $('.tabs__content').hide();
 $('.tabs__content:first').show();
 $('.tabs__btn:first').addClass('tabs__btn--active');
@@ -137,7 +137,7 @@ $('.tabs__btn').on('click', function (e) {
 
     var selectTab = $(this).find('a').attr('href');
     $(selectTab).fadeIn(1000);
-});
+});*/
 
 // Sticky Menu
 function sticky(element1, element2){
