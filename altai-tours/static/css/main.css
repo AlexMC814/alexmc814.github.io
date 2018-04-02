@@ -4266,7 +4266,7 @@ ul {
 }
 
 .header--index {
-  background-image: -webkit-gradient(linear,left top,right bottom,from(rgba(64,79,62,.5)),to(rgba(42,58,67,.7))),url(https://alexmc814.github.io/altai-tours/static/img/general/header/bg-hero.jpg);
+  background-image: -webkit-gradient(linear,left top,right bottom, from(rgba(64,79,62,.5)), to(rgba(42,58,67,.7))), url(https://alexmc814.github.io/altai-tours/static/img/general/header/bg-hero.jpg);
   background-image: -o-linear-gradient(left top,rgba(64,79,62,.5),rgba(42,58,67,.7)),url(https://alexmc814.github.io/altai-tours/static/img/general/header/bg-hero.jpg);
   background-image: linear-gradient(to right bottom,rgba(64,79,62,.5),rgba(42,58,67,.7)),url(https://alexmc814.github.io/altai-tours/static/img/general/header/bg-hero.jpg);
 }
