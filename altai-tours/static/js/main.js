@@ -2,10 +2,9 @@ $(document).ready(function() {
     svg4everybody({});
 
 // Main navigation active
-$('.main-navigation__link').click(function() {
+$('.main-navigation__link').on('click', function() {
     $('.main-navigation__item').removeClass('active');
-    console.log($(this).parent());
-    $(this).parent().addClass('active');
+    $(this).addClass('active');
 });
 
     // index page owl carousel stories slider
