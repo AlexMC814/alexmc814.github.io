@@ -3,7 +3,7 @@ $(document).ready(function() {
 
 // Main navigation active
 $('.main-navigation__link').on('click', function() {
-    $('.main-navigation__item').removeClass('active');
+    //$('.main-navigation__item').removeClass('active');
     $(this).addClass('active');
 });
 
