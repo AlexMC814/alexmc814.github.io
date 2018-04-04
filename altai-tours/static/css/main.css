@@ -4281,10 +4281,6 @@ ul {
   text-align: center;
 }
 
-.header__content--inner {
-  top: 60%;
-}
-
 .logo {
   position: absolute;
   top: 4rem;
@@ -6879,6 +6875,10 @@ button:focus {
 
   .header__content {
     top: 45%;
+  }
+
+  .header__content--inner {
+    top: 60%;
   }
 
   .header-inner {
