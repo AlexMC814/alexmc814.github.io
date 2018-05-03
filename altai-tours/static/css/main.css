@@ -6894,7 +6894,7 @@ button:focus {
   }
 
   .header__content--inner {
-    top: 60%;
+    top: 60% !important; 
   }
 
   .header-inner {
